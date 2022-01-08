@@ -1,0 +1,47 @@
+body {
+    background-color: lightcyan;
+}
+
+.section {
+    padding: 10px;
+    border: 1px solid grey;
+    background-color: white;
+    border: 1px solid grey;
+}
+
+h1 {
+    text-align: center;
+}
+
+#top {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    overflow: hidden;
+}
+
+div {
+    margin: auto;
+    width: 75%;
+}
+
+.title {
+    text-align: left;
+}
+
+.recipe-name {
+    inline-size: 50%;
+    float: left;
+}
+
+.heading {
+    font-size: 100px;
+    color: darkslategray;
+}
+
+img {
+    vertical-align: middle;
+    float: right;
+    width: 300px;
+    height: auto;
+    border-radius: 50%;
+}
